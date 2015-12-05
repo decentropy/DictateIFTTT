@@ -16,4 +16,5 @@ Install on your watch:
 - Edit pebble-js-app.js (lines 2,3) with your own Maker Key and recipe's Event Name.
 - Turn 'Developer Connection' on in your Android Pebble app. In cloudpebble, click COMPILATION > PHONE > INSTALL AND RUN.
 
-Run the app, speak, and the transcribed words will be passed as value1 to your IFTTT event.
+That's it.
+Run the app on your watch. Speak, and the transcribed words will be passed as value1 to your IFTTT event.
