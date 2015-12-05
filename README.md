@@ -3,7 +3,7 @@ Pebble watch app to dictate speech, and send to IFTTT event.
 
 Configure your IFTTT recipes with Maker channel to do what you want with the transcribed speech (value1). E.g. email someone, run a command, whatever...
 
-(Requires Pebble Time/Steel/Round or newer)
+(Dictation API requires Pebble Time/Steel/Round or newer)
 
 ![Image of Pebble](https://raw.githubusercontent.com/steve-vincent/DictateIFTTT/master/dictate.jpg)
 
