@@ -3,7 +3,7 @@ Pebble watch app to dictate speech, and send to IFTTT event.
 
 (Requires Pebble Time/Steel/Round or newer)
 
-!(https://raw.githubusercontent.com/steve-vincent/DictateIFTTT/master/dictate.jpg)
+![Image of Pebble](https://raw.githubusercontent.com/steve-vincent/DictateIFTTT/master/dictate.jpg)
 
 To install on your watch:
 - Go to IFTTT, and get your Maker channel key.
